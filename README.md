@@ -1,5 +1,5 @@
 # hcloud-command-tree
-each hcloud command/subcommand a single directory
+each hcloud command/subcommand a single, empty directory
 
 
 ```
